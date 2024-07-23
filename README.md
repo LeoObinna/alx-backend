@@ -1,1 +1,1 @@
-This directory id for ALX alx-backend
+This directory is for ALX alx-backend
